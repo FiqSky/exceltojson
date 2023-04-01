@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Ganti 'file_excel.xlsx' dengan nama file Excel Anda
-file_excel = 'file_excel.xlsx'
+file_excel = 'datapenyakitdandaftarpenyakit.xlsx'
 
 # Ganti 'Sheet1' dengan nama sheet yang berisi data Anda dalam file Excel
 sheet_name = 'Sheet1'
